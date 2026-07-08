@@ -2,9 +2,9 @@
 
 A missing index can significantly degrade SQL query performance because the database engine must examine much more data than is necessary to return the result. Sometimes, a missing index causes a full table scan before the matching row is found. As a result, queries take longer, disk and memory I/O grows, CPU utilization becomes higher, and the risk of blocking or contention increases.
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler helps you locate and fix missing indexes to improve query performance by pinpointing the following issues:
+The integrated Query Profiler in dbForge Studios (and dbForge Edge) helps you locate and fix missing indexes to improve query performance by pinpointing the following issues:
 
 - Full table scans instead of index scans
 - High read counts
