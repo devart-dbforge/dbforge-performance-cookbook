@@ -12,9 +12,9 @@ A correctly set up covering index brings the following performance benefits:
 - CPU efficiency improvement
 - Performance improvement on large datasets
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler highlights key lookups that increase the execution cost and read count.
+The integrated Query Profiler in dbForge Studios (and dbForge Edge) highlights key lookups that increase the execution cost and read count.
 
 ## Example
 
