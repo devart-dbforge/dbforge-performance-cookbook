@@ -9,9 +9,9 @@ When applied to a table, a columnstore index has a significant impact on the per
 - Batch mode processing reducing the CPU overhead
 - Faster aggregation
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler identifies large index scans that suggest optimization through the introduction of a columnstore index.
+The integrated Query Profiler in dbForge Studios (and dbForge Edge) identifies large index scans that suggest optimization through the introduction of a columnstore index.
 
 ## Example
 
