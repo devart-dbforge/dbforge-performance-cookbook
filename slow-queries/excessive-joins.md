@@ -4,7 +4,7 @@ Unnecessary JOINs increase the amount of resources needed to match, combine, and
 
 ## How dbForge Query Profiler can help
 
-The integrated Query Profiler in dbForge Studios (and dbForge Edge) provides metrics pinpointing JOINs that are not needed for query execution and only consume resources. By analyzing such metrics as read count and execution cost, you can find such JOINs and remove them.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) provides metrics pinpointing JOINs that are not needed for query execution and only consume resources. By analyzing such metrics as read count and execution cost, you can find such JOINs and remove them.
 
 ## Example
 
