@@ -14,7 +14,7 @@ A correctly set up covering index brings the following performance benefits:
 
 ## How dbForge Query Profiler can help
 
-The integrated Query Profiler in dbForge Studios (and dbForge Edge) highlights key lookups that increase the execution cost and read count.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) highlights key lookups that increase the execution cost and read count.
 
 ## Example
 
