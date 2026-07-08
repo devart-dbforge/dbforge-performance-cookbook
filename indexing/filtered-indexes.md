@@ -8,9 +8,9 @@ A filtered index can improve query efficiency in more than one way:
 - Selective index seeks resulting in higher efficiency
 - Lower maintenance overhead
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler shows inefficient clustered index scans, where a clustered index can be replaced with a filtered one.
+The integrated Query Profiler in dbForge Studios (and dbForge Edge) shows inefficient clustered index scans, where a clustered index can be replaced with a filtered one.
 
 ## Example
 
