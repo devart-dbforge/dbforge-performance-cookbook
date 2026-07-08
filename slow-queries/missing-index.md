@@ -4,7 +4,7 @@ A missing index can significantly degrade SQL query performance because the data
 
 ## How dbForge Query Profiler can help
 
-The integrated Query Profiler in dbForge Studios (and dbForge Edge) helps you locate and fix missing indexes to improve query performance by pinpointing the following issues:
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) helps you locate and fix missing indexes to improve query performance by pinpointing the following issues:
 
 - Full table scans instead of index scans
 - High read counts
