@@ -13,9 +13,9 @@ Implicit conversion affects query performance in more than one way:
 - Increased CPU consumption, if a conversion must be applied to each row in a table
 - Slow JOINs, where one side of each JOIN must be converted
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler can locate exactly where implicit conversions occur and help you understand what is causing them. By monitoring such important metrics as CPU usage, execution time, read count, and memory consumption, Query Profiler detects the following cases where implicit conversion is likely to be found:
+The integrated Query Profiler in dbForge Studios (and dbForge Edge) can locate exactly where implicit conversions occur and help you understand what is causing them. By monitoring such important metrics as CPU usage, execution time, read count, and memory consumption, Query Profiler detects the following cases where implicit conversion is likely to be found:
 
 - High-cost scans
 - Excessive reads
