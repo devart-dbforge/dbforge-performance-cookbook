@@ -11,7 +11,7 @@ When applied to a table, a columnstore index has a significant impact on the per
 
 ## How dbForge Query Profiler can help
 
-The integrated Query Profiler in dbForge Studios (and dbForge Edge) identifies large index scans that suggest optimization through the introduction of a columnstore index.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) identifies large index scans that suggest optimization through the introduction of a columnstore index.
 
 ## Example
 
