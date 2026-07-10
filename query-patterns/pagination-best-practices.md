@@ -11,9 +11,9 @@ FETCH NEXT 50 ROWS ONLY
 
 As a result, the query requires a lot of CPU and memory resources, which slows it down.
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler highlights such expensive queries and locates the issue in the execution path.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) highlights such expensive queries and locates the issue in the execution path.
 
 ## Example
 
