@@ -7,9 +7,9 @@ A cursor processes each row separately, which affects query performance, especia
 - Longer elapsed time
 - Poor scalability
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler provides many useful metrics that allow you to monitor and analyze query performance, such as **Execution Time -> CPU**, **Execution Time -> Elapsed**, and **Logical Reads**. These metrics can help you improve the performance of a query that contains a cursor by comparing the before and after values.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) provides many useful metrics that allow you to monitor and analyze query performance, such as **Execution Time -> CPU**, **Execution Time -> Elapsed**, and **Logical Reads**. These metrics can help you improve the performance of a query that contains a cursor by comparing the before and after values.
 
 ## Example
 
