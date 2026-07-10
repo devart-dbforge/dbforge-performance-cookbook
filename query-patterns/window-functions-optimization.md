@@ -8,9 +8,9 @@ Subqueries can degrade the performance as follows, especially in large tables:
 
 When subqueries are replaced with window functions such as LAG, LEAD, ROW_NUMBER, RANK, the performance improves due to the elimination of repeated table reads.
 
-## How Query Profiler can help
+## How dbForge Query Profiler can help
 
-Query Profiler helps you locate the exact step in the execution plan where unnecessary reads occur and suggests improvements.
+The integrated Query Profiler in [dbForge Studios](https://www.devart.com/dbforge-studio.html) (and [dbForge Edge](https://www.devart.com/dbforge/edge/)) helps you locate the exact step in the execution plan where unnecessary reads occur and suggests improvements.
 
 ## Example
 
