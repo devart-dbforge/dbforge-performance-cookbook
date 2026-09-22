@@ -55,6 +55,8 @@ GO
 
 Typically, index fragmentation is almost 0.
 
+All screenshots below were captured in [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/). Running these queries there gives you a formatted result grid, execution plan visualization, and query history out of the box — so you can jump straight from checking fragmentation to rebuilding the index without switching tools.
+
 ![Typical index fragmentation in percent](./zero-fragmentation.png)
 
 Create index fragmentation by adding a large number of rows.
