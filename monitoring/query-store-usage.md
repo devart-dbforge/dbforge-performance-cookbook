@@ -75,6 +75,8 @@ INNER JOIN sys.query_store_runtime_stats rs
 ORDER BY rs.avg_duration DESC;
 ```
 
+All screenshots below were captured in [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/). Running these Query Store queries there gives you a formatted result grid, one-click export, and query history out of the box — so you can go straight from spotting a regressed plan to comparing execution stats without switching tools.
+
 ![Query Store showing queries with the longest execution time](./query-store-execution-time.png)
 
 ### Find queries with the highest read count
