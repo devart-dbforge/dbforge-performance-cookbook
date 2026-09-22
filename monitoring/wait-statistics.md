@@ -35,6 +35,7 @@ SELECT
 FROM sys.dm_os_wait_stats
 WHERE wait_type = 'SOS_SCHEDULER_YIELD';
 ```
+All screenshots below were captured in [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/). Running these wait statistics queries there gives you a formatted result grid, one-click export, and query history out of the box — so you can go straight from spotting a dominant wait type to investigating its root cause.
 
 ![CPU wait statistics](./wait-statistics-cpu.png)
 
