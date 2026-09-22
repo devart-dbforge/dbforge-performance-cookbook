@@ -65,6 +65,8 @@ CROSS APPLY sys.dm_exec_sql_text(qs.sql_handle) st
 ORDER BY qs.total_elapsed_time DESC;
 ```
 
+All screenshots below were captured in [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio/). Running these DMV queries there gives you a formatted result grid, one-click export, and query history out of the box — so you can go straight from spotting a slow query to digging into its execution plan without switching tools.
+
 ![DMV showing queries with the longest execution time](./dmv-execution-time.png)
 
 ### Find queries with the highest logical read count
